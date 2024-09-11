@@ -1,0 +1,25 @@
+body {
+    background-color: #13fe56;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+    padding: 50px;
+    background-color: #4339f9;
+}
+
+.section {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    transition: transform 0.1s ease-in-out;
+}
+

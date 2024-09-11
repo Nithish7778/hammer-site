@@ -23,6 +23,9 @@
             <img id="hammer2" src="hammer_2.png" alt="Second Hammer">
         </div>
     </div>
+    <script src="javascript.js" defer></script>
+</body>
+</html>
 
     <script src="javascript.js" defer></script>
 </body>
